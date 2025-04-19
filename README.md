@@ -1,3 +1,3 @@
 # React Hooks Checkpoint
 
-https://github.com/DBusuru/React_-Hooks_-Checkpoint.git
+https://github.com/Fauzia-001/Hooks_checkpoint.git
